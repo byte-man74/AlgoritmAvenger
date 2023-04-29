@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Sheryf Habib or Ghost😉! 👋
 
-<!--
-**Ctrl-C-xCtrl-V/Ctrl-C-xCtrl-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Fullstack Developer specializing in JavaScript and Python programming languages. I have a strong passion for building fully secured, scalable web applications, mobile applications, and software products.
 
-Here are some ideas to get you started:
+## Skills🤹‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** HTML, CSS, JavaScript, React.js, 
+- **Backend:** Node.js, Express.js, Django, Flask
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Mobile Development:** React Native
+- **Other Languages:** C, C#
+- **Version Control:** Git, GitHub
+- **Deployment:** AWS, Heroku, Docker
+- **Testing:** Jest, Mocha, Chai
+
+## Education
+
+- **Degree Name**, University Name
+  - Dates: MM/YYYY - MM/YYYY
+
+## Contact Me
+
+- Email✉️: sheryf.534@gmail.com
+- LinkedIn🔗: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Whatsapp or Phone🤙📱: 08054289358
+
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+
