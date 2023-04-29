@@ -1,4 +1,4 @@
-# Hi there, I'm Sheryf Habib or Ghost😉! 👋
+# Yooo👋, I'm Sheryf Habib! 
 
 I am a Fullstack Developer specializing in JavaScript and Python programming languages. I have a strong passion for building fully secured, scalable web applications, mobile applications, and software products.
 
