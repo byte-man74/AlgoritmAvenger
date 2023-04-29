@@ -16,7 +16,7 @@ I am a Fullstack Developer specializing in JavaScript and Python programming lan
 ## Contact Me
 
 - Email✉️: sheryf.534@gmail.com
-- LinkedIn🔗: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- LinkedIn🔗: [Reach me here](https://www.linkedin.com/in/your-linkedin-profile)
 - Whatsapp or Phone🤙📱: 08054289358
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
