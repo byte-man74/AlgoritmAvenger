@@ -13,11 +13,6 @@ I am a Fullstack Developer specializing in JavaScript and Python programming lan
 - **Deployment:** AWS, Heroku, Docker
 - **Testing:** Jest, Mocha, Chai
 
-## Education
-
-- **Degree Name**, University Name
-  - Dates: MM/YYYY - MM/YYYY
-
 ## Contact Me
 
 - Email✉️: sheryf.534@gmail.com
