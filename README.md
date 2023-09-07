@@ -4,14 +4,14 @@ I am a Fullstack Developer specializing in JavaScript and Python programming lan
 
 ## Skills🤹‍♂️
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, 
-- **Backend:** Django, Flask
+- **Frontend:** HTML, CSS, JavaScript, React.js, Electron.js, React Native
+- **Backend:** Django, Flask, Spring
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Mobile Development:** React Native
 - **Other Languages:** C, C#
 - **Version Control:** Git, GitHub
 - **Deployment:** AWS, Heroku, Docker
-- **Testing:** Jest, Mocha, Chai
+- **Testing:** Pros don't test😎
 
 ## Contact Me
 
