@@ -8,7 +8,7 @@ I am a Fullstack Developer specializing in JavaScript and Python programming lan
 - **Backend:** Django, Flask, Spring
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Mobile Development:** React Native
-- **Other Languages:** C, C#
+- **Other Languages:** C, Java
 - **Version Control:** Git, GitHub
 - **Deployment:** AWS, Heroku, Docker
 - **Testing:** Pros don't test😎
