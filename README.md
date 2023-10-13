@@ -26,5 +26,3 @@ I'm in my element when working with teams, turning concepts into reality. If you
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctrl-C-xCtrl-V)](https://github.com/anuraghazra/github-readme-stats)
-
