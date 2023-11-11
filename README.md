@@ -1,8 +1,6 @@
 Yooo! 👋 I'm Sheryf Habib, I tackle those nagging business problems that keep you up at night and drain your finances. I'm a Fullstack Developer fluent in C/C++, Java, JavaScript, and Python. 
 
-My mission? Crafting secure, scalable software across the realms of web, mobile, and software products.
-
-My specialty? Developing cutting-edge fintech and payment solutions. I thrive on ensuring rock-solid security and delivering smooth user experiences. Whether it's building secure payment gateways, handling intricate financial data, or diving into data-intensive apps, consider it done.
+I develop cutting-edge fintech and payment solutions. I thrive on ensuring rock-solid security and delivering smooth user experiences. Whether it's building secure payment gateways, handling intricate financial data, or diving into data-intensive apps, consider it done.
 
 Beyond the code, I'm driven by a passion for pushing tech boundaries, optimizing financial transactions, streamlining data processing, and creating user-friendly interfaces.
 
