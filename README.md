@@ -1,8 +1,9 @@
 Yooo! 👋 I'm Sheryf Habib, I tackle those nagging business problems that keep you up at night and drain your finances. I'm a Fullstack Software Engineer fluent in C/C++, Java, JavaScript, and Python.
 
-![ezgif com-video-to-gif-converted](https://github.com/AlgoritmAvenger/AlgoritmAvenger/assets/80783021/9c481656-fa0d-4f00-a026-d8b3b53c2cb3)
+![b1055507-7a60-49cd-9809-022f0daee545](https://github.com/AlgoritmAvenger/AlgoritmAvenger/assets/80783021/77c81ded-c5ec-42a0-9be5-0983a09df857)
 
-I build cutting-edge fintech and payment solutions. I thrive on ensuring rock-solid security and delivering smooth user experiences. Whether it's building secure payment gateways, handling intricate financial data, or diving into data-intensive apps, consider it done.
+
+I build cutting-edge software solutions. I thrive on ensuring rock-solid security and delivering smooth user experiences. Whether it's building secure payment gateways, handling intricate financial data, or diving into data-intensive apps, consider it done.
 
 Beyond the code, I'm driven by a passion for pushing tech boundaries, optimizing financial transactions, streamlining data processing, and creating user-friendly interfaces.
 
