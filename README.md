@@ -18,7 +18,7 @@ I'm in my element when working with teams, turning concepts into reality. If you
 - **Version Control:** Git, GitHub
 - **Deployment:** AWS, Heroku, Docker
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgoritmAvenger)](https://github.com/AlgoritmAvenger/github-readme-stats)
 - **Testing:** Pros don't test🌚
 
 ## Contact Me
