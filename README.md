@@ -25,5 +25,7 @@ I'm in my element when working with teams, turning concepts into reality. If you
 - Whatsapp or Phone🤙📱: 08054289358
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgoritmAvenger)](https://github.com/AlgoritmAvenger/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgoritmAvenger&layout=compact)
