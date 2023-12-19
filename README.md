@@ -17,6 +17,8 @@ I'm in my element when working with teams, turning concepts into reality. If you
 - **Other Languages:** C, Java, Rust
 - **Version Control:** Git, GitHub
 - **Deployment:** AWS, Heroku, Docker
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - **Testing:** Pros don't test🌚
 
 ## Contact Me
