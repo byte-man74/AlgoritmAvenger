@@ -28,4 +28,4 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byte-man74&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74a&layout=pie)](https://github.com/byte-man74/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74&layout=pie)](https://github.com/byte-man74/github-readme-stats)
