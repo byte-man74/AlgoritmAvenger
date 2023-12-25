@@ -9,7 +9,10 @@ Beyond the code, I'm driven by a passion for pushing tech boundaries, optimizing
 
 I'm in my element when working with teams, turning concepts into reality. If you're on the hunt for a software developer with a focus on fintech and/or data-intensive apps, let's team up and shape the future of finance and tech, one app at a time. 💼🚀
 
-## Skills🤹‍♂️
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byte-man74&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74&layout=compact)
+
+## Tools i use🤹‍♂️
 - **Frontend:** HTML, CSS, JavaScript, React.js, Electron.js, React Native
 - **Backend:** Django
 - **Database:** MongoDB, MySQL, PostgreSQL
@@ -20,12 +23,10 @@ I'm in my element when working with teams, turning concepts into reality. If you
 
 
 ## Contact Me
-
 - Email✉️: sheryf.534@gmail.com
 - Whatsapp or Phone🤙📱: 08054289358
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byte-man74&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74&layout=pie)](https://github.com/byte-man74/github-readme-stats)
+
