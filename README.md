@@ -11,13 +11,13 @@ I'm in my element when working with teams, turning concepts into reality. If you
 
 ## Skills🤹‍♂️
 - **Frontend:** HTML, CSS, JavaScript, React.js, Electron.js, React Native
-- **Backend:** Django, Flask, Spring
+- **Backend:** Django
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Mobile Development:** React Native
 - **Other Languages:** C, Java, Rust
 - **Version Control:** Git, GitHub
 - **Deployment:** AWS, Heroku, Docker
-- **Testing:** Pros don't test🌚
+
 
 ## Contact Me
 
