@@ -27,5 +27,5 @@ I'm in my element when working with teams, turning concepts into reality. If you
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byte-man74&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byte-man74&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byte-man74&hide=contribs,prs)
