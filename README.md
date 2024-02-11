@@ -20,7 +20,7 @@ I'm in my element when working with teams, turning concepts into reality. If you
 - **Mobile Development:** React Native
 - **Other Languages:** C, Java, Rust, Golang
 - **Version Control:** Git, GitHub
-- **CI/CD: **Github actions, Gitlab
+- **CI/CD:** Github actions, Gitlab
 - **Deployment:** AWS, Heroku, Docker
 
 
