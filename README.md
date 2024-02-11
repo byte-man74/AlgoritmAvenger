@@ -14,7 +14,7 @@ I'm in my element when working with teams, turning concepts into reality. If you
 
 
 ## Tools i use🤹‍♂️
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Electron.js, React Native, Chakra UI, Tailwind css
+- **Frontend:** HTML, CSS, JavaScript, Typescript, React.js, Next.js, Electron.js, React Native, Chakra UI, Tailwind css
 - **Backend:** (Python)Django, (Python)Flask, (Golang)Chi, 
 - **Database:** MongoDB, MySQL, PostgreSQL, Cassandra DB, Redis
 - **Mobile Development:** React Native
