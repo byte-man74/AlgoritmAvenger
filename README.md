@@ -7,7 +7,7 @@ I build cutting-edge software solutions. I thrive on ensuring rock-solid securit
 
 Beyond the code, I'm driven by a passion for pushing tech boundaries, optimizing financial transactions, streamlining data processing, and creating user-friendly interfaces.
 
-I'm in my element when working with teams, turning concepts into reality. If you're on the hunt for a software developer with a focus on fintech and/or data-intensive apps, let's team up and shape the future of finance and tech, one app at a time. 💼🚀
+I'm in my element when working with teams, turning concepts into reality. If you're on the hunt for a software developer with a drive to create a highly performant software application, let's team up and shape the future of tech, one app at a time. 💼🚀
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74&layout=compact)
