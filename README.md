@@ -1,4 +1,4 @@
-Yooo! 👋 I'm Sheryf Habib. I'm a Fullstack Software Engineer fluent in C/C++, Java, JavaScript, and Python.
+Yooo! 👋 I'm Sheryf Habib. I'm a Fullstack Software Engineer fluent in C/C++, Go, JavaScript, and Python.
 
 ![b1055507-7a60-49cd-9809-022f0daee545](https://github.com/byte-man74/byte-man74/assets/80783021/77c81ded-c5ec-42a0-9be5-0983a09df857)
 
