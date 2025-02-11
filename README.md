@@ -4,7 +4,7 @@ Yooo! 👋 I'm Sheryf Habib. I build cool stuffs.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byte-man74&layout=compact)
+
 
 
 ## Tools i use🤹‍♂️
